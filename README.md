@@ -1,6 +1,6 @@
-[СКАЧАТЬ МОЖНО В РАЗДЕЛЕ "РЕЛИЗЫ" КЛИК](https://github.com/Detools1221/PureCrypter-RUNPE2025/releases/tag/cryptor)
+[СКАЧАТЬ МОЖНО В РАЗДЕЛЕ "РЕЛИЗЫ" КЛИК](https://github.com/Detools1221/Telegram-SPAM-BOT/releases/tag/telegramspamer)
 
-[YOU CAN DOWNLOAD IT IN THE "RELEASES" SECTION CLICK](https://github.com/Detools1221/PureCrypter-RUNPE2025/releases/tag/cryptor)
+[YOU CAN DOWNLOAD IT IN THE "RELEASES" SECTION CLICK](https://github.com/Detools1221/Telegram-SPAM-BOT/releases/tag/telegramspamer)
 
 
 Нам нужна сессия telethon, получить ее можно, купив аккаунт на лолзе/возмжоно на других сайтах
