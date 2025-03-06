@@ -1,0 +1,1 @@
+fnums:1:ftext:7:randomizer:0:photo:0:time:0:fsucc:12:proxy:0:bio:0:0:0:0:0:Man/Women:0:Chat-GPT:0:DelChat:0:StopBecauseDelay:1:1200:fnums:1:ftext:7:randomizer:0:photo:0:time:0:fsucc:12:proxy:0:bio:0:0:0:3:0:Man/Women:0:Chat-GPT:1:DelChat:0:StopBecauseDelay:0:1200:proxy_type:0:forwarding:0:editing:0:

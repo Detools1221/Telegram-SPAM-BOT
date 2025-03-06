@@ -1,0 +1,14 @@
+first_name:Nick
+last_name:Helton
+about:@supsoft - Лучший софт для телеграма
+photo:ph.jpg
+username:quicknet1k
+
+random_man_first_name:Nick:Parrot:Kevin:Lars:Jimmy:Mike:Chris:Carl:Vlad:Robert:Leonardo:Leo:Gleb:Maks:Maksim:Rob:
+random_man_last_name:Polson:Patison:Ivanov:Petrov:Sidorov:Turner:Copper:Zhgulevskiy:Nasvyaev:Solevik:Alpha:Pvp:
+random_women_first_name:Vlada:Kristina:Anya:Nastya:Katya:Yana:Sasha:Zhenya:Nina:Alevtina:Sveta:Tonya:Luba:
+random_women_last_name:Evans:Stone:Roberts:Mills:Lewis:Morgan:Florence:Campbell:Bronte:Bell:Adams:
+random_about:i'm using QuickNet:Check my photo:Call me:
+random_username:Dhg:1Dad:87Hfd:09hHsz:6hTg:4Axcc:jf6g:fgj65:fsr5F:kli65:09jyH:zxc10:ZV15:ujiJ7:
+
+RADOM_PHOTO - БЕРЕТ РАНДОМНОЕ ФОТО ИЗ ПАПКИ photo 
